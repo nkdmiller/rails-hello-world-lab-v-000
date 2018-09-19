@@ -1,5 +1,9 @@
 Rails.application.routes.draw do
+<<<<<<< HEAD
   get 'hello_world', to: 'static#hello_world'
+=======
+  get 'hello', to: 'static#about'
+>>>>>>> 2b7565eec1b92d7f089e6a5cb8f1e3badb87922e
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

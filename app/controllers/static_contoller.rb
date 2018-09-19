@@ -1,0 +1,2 @@
+StaticController < ApplicationController
+end
